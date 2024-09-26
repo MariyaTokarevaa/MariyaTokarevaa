@@ -1,6 +1,6 @@
 ## Привет 👋
 Меня зовут Мария Токарева. Я python-разработчик и выпускница онлайн-школы Нетология.
-- Здесь мои учебные работы.
+- Здесь мои учебные работы
 - https://github.com/MariyaTokarevaa/KursovayaOOP
 - https://github.com/MariyaTokarevaa/EnglishBot
 - https://github.com/MariyaTokarevaa/social_network
