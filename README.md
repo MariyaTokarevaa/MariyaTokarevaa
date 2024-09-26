@@ -4,6 +4,7 @@
 - https://github.com/MariyaTokarevaa/KursovayaOOP
 - https://github.com/MariyaTokarevaa/EnglishBot
 - https://github.com/MariyaTokarevaa/social_network
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariyaTokarevaa&layout=compact)](https://github.com/MariyaTokarevaa/github-readme-stats)
 
 ![Mariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariyaTokarevaa&show_icons=true&theme=radical)
 <!--
