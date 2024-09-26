@@ -4,7 +4,8 @@
 - https://github.com/MariyaTokarevaa/KursovayaOOP
 - https://github.com/MariyaTokarevaa/EnglishBot
 - https://github.com/MariyaTokarevaa/social_network
-# Python • Git • Базы данных • SQL • PostgreSQL • SQLalchemy • ООП • Django • Bash • Docker • Создание telegram-ботов
+
+- Python • Git • Базы данных • SQL • PostgreSQL • SQLalchemy • ООП • Django • Bash • Docker • Создание telegram-ботов
 
 # Высшее образование
 - Удмуртский Государственный университет, Исторический факультет (2005-2010)
