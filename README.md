@@ -26,7 +26,7 @@
  
   Django - создание веб-приложений:
   - [Backend для приложения с объявлениями](https://github.com/MariyaTokarevaa/django_project_3.3)
-  - [Реализация API онлайн-библиотеки] (https://github.com/MariyaTokarevaa/django_project_3.2/tree/main/library)
+  - [Реализация API онлайн-библиотеки](https://github.com/MariyaTokarevaa/django_project_3.2/tree/main/library)
 
   Получила опыт работы с наставником и код-ревью
   
