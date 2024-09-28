@@ -17,16 +17,16 @@
 
    + Разработала 11 проектов во время обучения:
   
-  + ООП и работа с API: [программа для кулинарной книги со списком рецептов](https://github.com/MariyaTokarevaa/Cook_book)
+   + ООП и работа с API: [программа для кулинарной книги со списком рецептов](https://github.com/MariyaTokarevaa/Cook_book)
 
-  + Базы данных и SQL:
-   - [база данных для музыкального магазина](https://github.com/MariyaTokarevaa/SQL-zaprosy)
-   - [программа для управления базой данных о клиентах в PostgreSQL](https://github.com/MariyaTokarevaa/PostgreSQL-Python)
-   - [программа для книжных магазинов с использованием SQLalchemy](https://github.com/MariyaTokarevaa/SQLAlchemy)
+   + Базы данных и SQL:
+      - [база данных для музыкального магазина](https://github.com/MariyaTokarevaa/SQL-zaprosy)
+      - [программа для управления базой данных о клиентах в PostgreSQL](https://github.com/MariyaTokarevaa/PostgreSQL-Python)
+      - [программа для книжных магазинов с использованием SQLalchemy](https://github.com/MariyaTokarevaa/SQLAlchemy)
  
   + Django - создание веб-приложений:
-   - [Backend для приложения с объявлениями](https://github.com/MariyaTokarevaa/django_project_3.3)
-   - [Реализация API онлайн-библиотеки](https://github.com/MariyaTokarevaa/django_project_3.2/tree/main/library)
+      - [Backend для приложения с объявлениями](https://github.com/MariyaTokarevaa/django_project_3.3)
+      - [Реализация API онлайн-библиотеки](https://github.com/MariyaTokarevaa/django_project_3.2/tree/main/library)
 
   + Получила опыт работы с наставником и код-ревью
   
