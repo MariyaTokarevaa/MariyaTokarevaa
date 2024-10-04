@@ -16,6 +16,7 @@
 ### Связаться со мной (https://taplink.cc/tokarevamariya)
 
 ### Сертификаты обучения
+- [Python](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/поколение%20пайтон.pdf)
 - [Python](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/python23.jpg)
 - [Python](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/python.jpeg)
 - [Django](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/django.jpeg)
