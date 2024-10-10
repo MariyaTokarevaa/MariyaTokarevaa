@@ -13,9 +13,9 @@
 - [Реализация API онлайн-библиотеки](https://github.com/MariyaTokarevaa/django_project_3.2/tree/main/library)
 - [Backend приложения для социальной сети для обмена фотографиями](https://github.com/MariyaTokarevaa/social_network)
 
-### [Моё портфолио] (https://mariyatokarevaa.github.io/MariyaTokareva.github.io)
+### [Моё портфолио](https://mariyatokarevaa.github.io/MariyaTokareva.github.io)
 
-### [Связаться со мной] (https://taplink.cc/tokarevamariya)
+### [Связаться со мной](https://taplink.cc/tokarevamariya)
 
 ### Сертификаты обучения
 - [Python](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/поколение%20пайтон.pdf)
