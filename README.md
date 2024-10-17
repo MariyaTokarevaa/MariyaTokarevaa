@@ -9,6 +9,7 @@
 - [программа для управления базой данных о клиентах в PostgreSQL](https://github.com/MariyaTokarevaa/PostgreSQL-Python)
 - [программа для книжных магазинов с использованием SQLalchemy](https://github.com/MariyaTokarevaa/SQLAlchemy)
 - [телеграм-бот для изучения английкого языка с базой данных и SQL-запросами к ней](https://github.com/MariyaTokarevaa/EnglishBot)
+- [телеграм-бот-парсер сайта anekdot.ru](https://github.com/MariyaTokarevaa/web-scraping)
 - [Backend для приложения с объявлениями](https://github.com/MariyaTokarevaa/django_project_3.3)
 - [Реализация API онлайн-библиотеки](https://github.com/MariyaTokarevaa/django_project_3.2/tree/main/library)
 - [Backend приложения для социальной сети для обмена фотографиями](https://github.com/MariyaTokarevaa/social_network)
