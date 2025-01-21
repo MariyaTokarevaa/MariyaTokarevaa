@@ -13,8 +13,7 @@
 - [Backend для приложения с объявлениями](https://github.com/MariyaTokarevaa/django_project_3.3)
 - [Реализация API онлайн-библиотеки](https://github.com/MariyaTokarevaa/django_project_3.2/tree/main/library)
 - [Backend приложения для социальной сети для обмена фотографиями](https://github.com/MariyaTokarevaa/social_network)
-- [Успешно выполненное тестовое задание на позицию бэкенд-разработчика task_manager
-это API бэкенд приложения для списка дел, реализован при помощи фреймворка Django и Djangorestframework](https://github.com/MariyaTokarevaa/task_manager/tree/development)
+- [Успешно выполненное тестовое задание - API бэкенд приложения для списка дел, реализован при помощи фреймворка Django и Djangorestframework](https://github.com/MariyaTokarevaa/task_manager/tree/development)
 
 ### [Моё портфолио](https://mariyatokarevaa.github.io/MariyaTokareva.github.io)
 
