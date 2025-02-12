@@ -15,6 +15,7 @@
 - [Backend приложения для социальной сети для обмена фотографиями](https://github.com/MariyaTokarevaa/social_network)
 - [Успешно выполненное тестовое задание - API бэкенд приложения для списка дел](https://github.com/MariyaTokarevaa/task_manager/tree/development)
 
+
 ### [Моё портфолио](https://mariyatokarevaa.github.io/MariyaTokareva.github.io)
 
 ### [Связаться со мной](https://taplink.cc/tokarevamariya)
