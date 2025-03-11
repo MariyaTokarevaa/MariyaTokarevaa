@@ -20,7 +20,9 @@
 
 ### [Связаться со мной](https://taplink.cc/tokarevamariya)
 
+
 ### Сертификаты обучения
+- [Мой профиль на платформе stepik.org](https://stepik.org/users/478385183/certificates)
 - [Python](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/поколение%20пайтон.pdf)
 - [Python](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/python23.jpg)
 - [Python](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/python.jpeg)
