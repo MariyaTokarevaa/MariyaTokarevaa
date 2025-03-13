@@ -2,7 +2,7 @@
 Меня зовут Мария Токарева. Я python-разработчик.
 
 ### Навыки работы с
- Python • Git • Базы данных • SQL • PostgreSQL • SQLalchemy • ООП • Django • Djangorestframework • Создание telegram-ботов
+ Python • Git • Базы данных • SQL • PostgreSQL • SQLalchemy • ООП • Django • FastAPI • Создание telegram-ботов
 
 ### Здесь мои учебные работы:
 - [база данных для музыкального магазина](https://github.com/MariyaTokarevaa/SQL-zaprosy)
