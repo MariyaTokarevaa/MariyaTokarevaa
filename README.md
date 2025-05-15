@@ -23,8 +23,8 @@
 
 ### Сертификаты обучения
 - [Мой профиль на платформе stepik.org](https://stepik.org/users/478385183/certificates)
-- [Python](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/поколение%20пайтон.pdf)
-- [Python](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/python23.jpg)
+- [Поколение Python: курс для начинающих](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/поколение%20пайтон.pdf)
+- [Поколение Python: курс для продвинутых](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/python-adv.pdf)
 - [Python](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/python.jpeg)
 - [Django](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/django.jpeg)
 - [SQL и получение данных](https://github.com/MariyaTokarevaa/MariyaTokarevaa/blob/main/bd-sql.jpeg)
